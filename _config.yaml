@@ -10,10 +10,10 @@ proofer: false
 links:
   email: md.malam@connect.polyu.hk
   orcid: 0000-0003-0987-1999
-  google-scholar: https://scholar.google.com.au/citations?user=a2yhqEQAAAAJ&hl=en&oi=ao
-  github: https://github.com/OpenMedTech-Lab
+  google-scholar: a2yhqEQAAAAJ&hl=en&oi=ao
+  github: OpenMedTech-Lab
   #twitter: OpenMedTech-Lab
-  #youtube: https://www.youtube.com/channel/UCp5G4pGaJMSPvyuxjYjmxPw
+  youtube: UCp5G4pGaJMSPvyuxjYjmxPw
 
 ### jekyll settings
 
