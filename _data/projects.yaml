@@ -3,7 +3,7 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: A low-cost, customisable neuromodulation platform designed to support research, education and clinical translation. The system enables flexible development and evaluation of stimulation technologies for rehabilitation and functional restoration.
+  description: A low-cost, customisable neuromodulation platform designed to support research, education and clinical translation. The system enables flexible development and evaluation of stimulation technologies for functional restoration.
   repo: OpenMedTech-Lab/OpenXstim
   tags:
     - resource
@@ -22,7 +22,7 @@
   subtitle: Open-source Biosignal Amplifier
   image: images/photo.jpg
   link: https://github.com/
-  description: A biosignal acquisition platform for research, teaching and medical technology development. OpenXamp supports the recording of physiological signals for rehabilitation, neural engineering and assistive technology applications.
+  description: A modular biosignal acquisition platform designed to support research, education and medical technology development in healthcare and rehabilitation.
   repo: OpenMedTech-Lab/OpenXamp
   tags:
     - resource
