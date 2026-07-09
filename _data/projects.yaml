@@ -35,7 +35,7 @@
   description: OpenXHand is a wearable robotic exoskeleton system designed to assist hand movement and support rehabilitation following neurological injury or disease.
   repo: OpenMedTech-Lab/OpenXhand
   tags:
-    - software
+    - resource
 
 - title: OpenXwalk
   subtitle: Wearable Robotic Walking Assistance System
@@ -44,4 +44,4 @@
   description: OpenXwalk is a modular robotic gait assistance platform that supports walking rehabilitation and mobility training for people with neurological conditions.
   repo: OpenMedTech-Lab/OpenXstand
   tags:
-    - software
+    - resource
