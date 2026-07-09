@@ -1,209 +1,662 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3390/jcm12237362
+  title: 'Restoration of Over-Ground Walking via Non-Invasive Neuromodulation Therapy:
+    A Single-Case Study'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Monzurul Alam
+  - Yan To Ling
+  - Md Akhlasur Rahman
+  - Arnold Yu Lok Wong
+  - Hui Zhong
+  - V. Reggie Edgerton
+  - Yong-Ping Zheng
+  publisher: Journal of Clinical Medicine
+  date: '2023-11-28'
+  link: https://doi.org/hb9v4t
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3390/biomedicines11010034
+  title: Combined Transcutaneous Electrical Spinal Cord Stimulation and Task-Specific
+    Rehabilitation Improves Trunk and Sitting Functions in People with Chronic Tetraplegia
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Niraj Singh Tharu
+  - Monzurul Alam
+  - Yan To Ling
+  - Arnold YL Wong
+  - Yong-Ping Zheng
+  publisher: Biomedicines
+  date: '2022-12-23'
+  link: https://doi.org/hb9v4v
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/jcm11061550
+  title: 'Trans-Spinal Electrical Stimulation Therapy for Functional Rehabilitation
+    after Spinal Cord Injury: Review'
+  authors:
+  - Md. Akhlasur Rahman
+  - Niraj Singh Tharu
+  - Sylvia M. Gustin
+  - Yong-Ping Zheng
+  - Monzurul Alam
+  publisher: Journal of Clinical Medicine
+  date: '2022-03-11'
+  link: https://doi.org/gpnw88
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/jcm11041043
+  title: Effect of Cervical Transcutaneous Spinal Cord Stimulation on Sensorimotor
+    Cortical Activity during Upper-Limb Movements in Healthy Individuals
+  authors:
+  - "Ciar\xE1n McGeady"
+  - Monzurul Alam
+  - Yong-Ping Zheng
+  - "Aleksandra Vu\u010Dkovi\u0107"
+  publisher: Journal of Clinical Medicine
+  date: '2022-02-17'
+  link: https://doi.org/hb9v4w
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.03.510697
+  title: A novel therapeutic approach of ultrasound stimulation to restore forelimb
+    functions following cervical cord injury in rats
+  authors:
+  - Rakib Uddin Ahmed
+  - Monzurul Alam
+  - Shuai Li
+  - Poornima Palanisamy
+  - Hui Zhong
+  - Yong-Ping Zheng
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2022-10-07'
+  link: https://doi.org/hb9v4x
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.21203/rs.3.rs-2116817/v1
+  title: An easy-to-build transcutaneous electrical stimulator for spinal cord stimulation
+    therapy
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Monzurul Alam
+  publisher: Research Square Platform LLC
+  date: '2022-10-03'
+  link: https://doi.org/hb9v4z
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1155/2022/8642900
+  title: "Caregivers\u2019 Knowledge, Attitude, and Practice towards Pressure Injuries\
+    \ in Spinal Cord Injury at Rehabilitation Center in Bangladesh"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Niraj Singh Tharu
+  - Monzurul Alam
+  - Shristi Bajracharya
+  - Gautam Prasad Chaudhary
+  - Jitendra Pandey
+  - Mohammad A. Kabir
+  publisher: Advances in Orthopedics
+  date: '2022-06-14'
+  link: https://doi.org/hb9v42
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/jum.15738
+  title: "Low\u2010Intensity Pulsed Ultrasound Stimulation for Bone Fractures Healing"
+  authors:
+  - Poornima Palanisamy
+  - Monzurul Alam
+  - Shuai Li
+  - Simon K. H. Chow
+  - "Yong\u2010Ping Zheng"
+  publisher: Journal of Ultrasound in Medicine
+  date: '2021-05-05'
+  link: https://doi.org/hb9v43
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-822498-4.00019-1
+  title: Treating spinal cord injury with implanted spinal cord stimulators
+  authors:
+  - Hengze You
+  - Yong-Ping Zheng
+  - Monzurul Alam
+  publisher: Diagnosis and Treatment of Spinal Cord Injury
+  date: '2022-01-01'
+  link: https://doi.org/hb9v44
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s21206900
+  title: A Compact and Lightweight Rehabilitative Exoskeleton to Restore Grasping
+    Functions for People with Hand Paralysis
+  authors:
+  - Vaheh Nazari
+  - Majid Pouladian
+  - Yong-Ping Zheng
+  - Monzurul Alam
+  publisher: Sensors
+  date: '2021-10-18'
+  link: https://doi.org/gp2hdb
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s21196593
+  title: EEG Monitoring Is Feasible and Reliable during Simultaneous Transcutaneous
+    Electrical Spinal Cord Stimulation
+  authors:
+  - "Ciar\xE1n McGeady"
+  - "Aleksandra Vu\u010Dkovi\u0107"
+  - Yong-Ping Zheng
+  - Monzurul Alam
+  publisher: Sensors
+  date: '2021-10-02'
+  link: https://doi.org/hb9v45
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/prosthesis3010003
+  title: Can Prosthetic Hands Mimic a Healthy Human Hand?
+  authors:
+  - Ka Ho Ng
+  - Vaheh Nazari
+  - Monzurul Alam
+  publisher: Prosthesis
+  date: '2021-01-28'
+  link: https://doi.org/hb9v46
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/1559325821998136
+  title: Buspirone Dose-Response on Facilitating Forelimb Functional Recovery in Cervical
+    Spinal Cord Injured Rats
+  authors:
+  - Rakib Uddin Ahmed
+  - V. Reggie Edgerton
+  - Shuai Li
+  - Yong-Ping Zheng
+  - Monzurul Alam
+  publisher: Dose-Response
+  date: '2021-01-01'
+  link: https://doi.org/hb9v47
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-870815/v1
+  title: Compact Design of A Lightweight Rehabilitative Exoskeleton for Restoring
+    Grasping Function in Patients with Hand Paralysis
+  authors:
+  - Vaheh Nazari
+  - Majid Pouladian
+  - Yong-Ping Zheng
+  - Monzurul Alam
+  publisher: Springer Science and Business Media LLC
+  date: '2021-09-23'
+  link: https://doi.org/hb9v48
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ejp.1838
+  title: Disruption to normal excitatory and inhibitory function within the medial
+    prefrontal cortex in people with chronic pain
+  authors:
+  - David Kang
+  - "Negin Hesam\u2010Shariati"
+  - James H. McAuley
+  - Monzurul Alam
+  - Zina Trost
+  - Caroline D. Rae
+  - Sylvia M. Gustin
+  publisher: European Journal of Pain
+  date: '2021-07-26'
+  link: https://doi.org/hb9v49
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-225668/v1
+  title: Knowledge, Attitude and Practice Among Caregivers Towards Pressure Ulcer
+    in Spinal Cord Injury at Rehabilitation Center in Bangladesh
+  authors:
+  - Niraj Tharu
+  - Monzurul Alam
+  - Shristi Bajracharya
+  - Mohammad Kabir
+  publisher: Springer Science and Business Media LLC
+  date: '2021-03-03'
+  link: https://doi.org/hb9v5b
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s13311-020-00974-8
+  title: Serotonergic Facilitation of Forelimb Functional Recovery in Rats with Cervical
+    Spinal Cord Injury
+  authors:
+  - Benita Jin
+  - Monzurul Alam
+  - Alexa Tierno
+  - Hui Zhong
+  - Roland R. Roy
+  - Yury Gerasimenko
+  - Daniel C. Lu
+  - V. Reggie Edgerton
+  publisher: Neurotherapeutics
+  date: '2021-04-01'
+  link: https://doi.org/g6v9bc
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/02699052.2020.1850864
+  title: 'Restoration of arm and hand functions via noninvasive cervical cord neuromodulation
+    after traumatic brain injury: a case study'
+  authors:
+  - Qiuyang Qian
+  - Yan To Ling
+  - Hui Zhong
+  - Yong-Ping Zheng
+  - Monzurul Alam
+  publisher: Brain Injury
+  date: '2020-12-02'
+  link: https://doi.org/hb9v5c
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s42234-020-00048-2
+  title: Ultrasound-driven piezoelectric current activates spinal cord neurocircuits
+    and restores locomotion in rats with spinal cord injury
+  authors:
+  - Shuai Li
+  - Monzurul Alam
+  - Rakib Uddin Ahmed
+  - Hui Zhong
+  - Xiao-Yun Wang
+  - Serena Ng
+  - Yong-Ping Zheng
+  publisher: Bioelectronic Medicine
+  date: '2020-06-01'
+  link: https://doi.org/gmhmn9
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/1073858419895461
+  title: 'Spinal Cord Injury: Lessons about Neuroplasticity from Paired Associative
+    Stimulation'
+  authors:
+  - Yan To Ling
+  - Monzurul Alam
+  - Yong-Ping Zheng
+  publisher: The Neuroscientist
+  date: '2019-12-31'
+  link: https://doi.org/hb9v5d
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/acn3.51051
+  title: "Reversing 21\_years of chronic paralysis via non\u2010invasive spinal cord\
+    \ neuromodulation: a case study"
+  authors:
+  - Monzurul Alam
+  - Yan To Ling
+  - Arnold Y. L. Wong
+  - Hui Zhong
+  - Victor Reggie Edgerton
+  - "Yong\u2010Ping Zheng"
+  publisher: Annals of Clinical and Translational Neurology
+  date: '2020-05-01'
+  link: https://doi.org/hb9v5f
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NER.2019.8717001
+  title: Closed-Loop Bladder Neuromodulation Therapy in Spinal Cord Injury Rat Model
+  authors:
+  - Marlena N. Raczkowska
+  - Wendy Y. X. Peh
+  - Yuni Teh
+  - Monzurul Alam
+  - Shih-Cheng Yen
+  - Nitish V. Thakor
+  publisher: 2019 9th International IEEE/EMBS Conference on Neural Engineering (NER)
+  date: '2019-03-01'
+  link: https://doi.org/hb9v5g
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12984-019-0501-4
+  title: Development of a battery-free ultrasonically powered functional electrical
+    stimulator for movement restoration after paralyzing spinal cord injury
+  authors:
+  - Monzurul Alam
+  - Shuai Li
+  - Rakib Uddin Ahmed
+  - Yat Man Yam
+  - Suman Thakur
+  - Xiao-Yun Wang
+  - Dan Tang
+  - Serena Ng
+  - Yong-Ping Zheng
+  publisher: Journal of NeuroEngineering and Rehabilitation
+  date: '2019-03-08'
+  link: https://doi.org/gntbph
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.heliyon.2019.e01324
+  title: Experimental spinal cord injury and behavioral tests in laboratory rats
+  authors:
+  - Rakib Uddin Ahmed
+  - Monzurul Alam
+  - Yong-Ping Zheng
+  publisher: Heliyon
+  date: '2019-03-01'
+  link: https://doi.org/hb9v5h
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/759449
+  title: Neuromodulation of pelvic nerve during early phase of spinal cord injury
+    in rats using implantable prototype devices - a preliminary study
+  authors:
+  - Wendy Yen Xian Peh
+  - Monzurul Alam
+  - Rakib Uddin Ahmed
+  - Sanghoon Lee
+  - Li Jing Ong
+  - Shuhao Lu
+  - Roshini Mogan
+  - Gil Gerald Lasam Gammad
+  - Kian Ann Ng
+  - Astrid Rusly
+  - Sudip Nag
+  - Yong-Ping Zheng
+  - Shih-Cheng Yen
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2019-09-08'
+  link: https://doi.org/gk2hr8
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/BIOCAS.2017.8325079
+  title: A chronic implantable EMG recording system with wireless power and data transfer
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Marshal Dian Sheng Wong
+  - Kian Ann Ng
+  - Sudip Nag
+  - Rangarajan Jegadeesan
+  - Khay-Wai Leong
+  - Li Jing Ong
+  - Astrid Rusly
+  - Monzurul Alam
+  - Gil Gerald Lasam Gammad
+  - Chne Wuen Tsai
+  - Shih-Chiang Liu
+  - Kai Voges
+  - Nitish V. Thakor
+  - Amitabha Lahiri
+  - Camilo Libedinsky
+  - Yong Ping Xu
+  - Shih-Cheng Yen
+  publisher: 2017 IEEE Biomedical Circuits and Systems Conference (BioCAS)
+  date: '2017-10-01'
+  link: https://doi.org/hb9v5j
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1109/BIOCAS.2017.8325202
+  title: Adaptive closed-loop bladder neuromodulation
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Wendy Y.X. Peh
+  - Marlena N. Raczkowska
+  - Yuni Teh
+  - Monzurul Alam
+  - Nitish V. Thakor
+  - Shih-Cheng Yen
+  publisher: 2017 IEEE Biomedical Circuits and Systems Conference (BioCAS)
+  date: '2017-10-01'
+  link: https://doi.org/hb9v5k
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1088/1741-2552/aadee9
+  title: Closed-loop stimulation of the pelvic nerve for optimal micturition
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Wendy Yen Xian Peh
+  - Marlena N Raczkowska
+  - Yuni Teh
+  - Monzurul Alam
+  - Nitish V Thakor
+  - Shih-Cheng Yen
+  publisher: Journal of Neural Engineering
+  date: '2018-09-25'
+  link: https://doi.org/hb9v5m
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1038/s41394-018-0141-0
+  title: 'Diagnosis and treatment of diastematomyelia in children: a perspective cohort
+    study'
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Sergey V. Vissarionov
+  - Nikolay A. Krutelev
+  - Victor P. Snischuk
+  - Monzurul Alam
+  - Artem P. Kravchenko
+  - Yong-Ping Zheng
+  - Nikita O. Khusainov
+  publisher: Spinal Cord Series and Cases
+  date: '2018-12-19'
+  link: https://doi.org/hb9v5n
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1088/1361-6579/aac812
+  title: Measurement of neurovascular coupling in human motor cortex using simultaneous
+    transcranial Doppler and electroencephalography
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Monzurul Alam
+  - Ghazanfar Ahmed
+  - Yan To Ling
+  - Yong-Ping Zheng
+  publisher: Physiological Measurement
+  date: '2018-06-01'
+  link: https://doi.org/hb9v5p
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.expneurol.2017.02.006
+  title: Electrical neuromodulation of the cervical spinal cord facilitates forelimb
+    skilled function recovery in spinal cord injured rats
+  authors:
+  - Monzurul Alam
+  - Guillermo Garcia-Alias
+  - Benita Jin
+  - Jonathan Keyes
+  - Hui Zhong
+  - Roland R. Roy
+  - Yury Gerasimenko
+  - Daniel C. Lu
+  - V. Reggie Edgerton
+  publisher: Experimental Neurology
+  date: '2017-05-01'
+  link: https://doi.org/f9zpg9
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4103/1673-5374.219041
+  title: 'Motor neuroprosthesis for injured spinal cord: who is an ideal candidate?'
+  authors:
+  - Monzurul Alam
+  - Yong-ping Zheng
+  publisher: Neural Regeneration Research
+  date: '2017-01-01'
+  link: https://doi.org/hb9v5q
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.brainres.2016.05.039
+  title: 'Brain-machine interface facilitated neurorehabilitation via spinal stimulation
+    after spinal cord injury: Recent progress and future perspectives'
+  authors:
+  - Monzurul Alam
+  - Willyam Rodrigues
+  - Bau Ngoc Pham
+  - Nitish V. Thakor
+  publisher: Brain Research
+  date: '2016-09-01'
+  link: https://doi.org/f8x449
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/neu.2015.4256
+  title: Unique Spatiotemporal Neuromodulation of the Lumbosacral Circuitry Shapes
+    Locomotor Success after Spinal Cord Injury
+  authors:
+  - Prithvi K. Shah
+  - Shakthi Sureddi
+  - Monzurul Alam
+  - Hui Zhong
+  - Roland R. Roy
+  - V. Reggie Edgerton
+  - Yury Gerasimenko
+  publisher: Journal of Neurotrauma
+  date: '2016-09-01'
+  link: https://doi.org/f85bkd
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jneumeth.2015.08.032
+  title: An economic method to build a puffing instrument for drug application in
+    vitro
+  authors:
+  - Yiping Guo
+  - Chunhua Liu
+  - Lingli Hu
+  - Xiaoyun Wang
+  - Monzurul Alam
+  - Haitao Wang
+  publisher: Journal of Neuroscience Methods
+  date: '2015-12-01'
+  link: https://doi.org/f73gtk
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jneumeth.2015.05.017
+  title: "Erratum to \u201CEvaluation of optimal electrode configurations for epidural\
+    \ spinal cord stimulation in cervical spinal cord injured rats\u201D [J. Neurosci.\
+    \ Methods 247 (2015) 50\u201357]"
+  authors:
+  - Monzurul Alam
+  - Guillermo Garcia-Alias
+  - Prithvi K. Shah
+  - Yury Gerasimenko
+  - Hui Zhong
+  - Roland R. Roy
+  - V. Reggie Edgerton
+  publisher: Journal of Neuroscience Methods
+  date: '2015-10-01'
+  link: https://doi.org/hb9v5r
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jneumeth.2015.03.012
+  title: Evaluation of optimal electrode configurations for epidural spinal cord stimulation
+    in cervical spinal cord injured rats
+  authors:
+  - Monzurul Alam
+  - Guillermo Garcia-Alias
+  - Prithvi K. Shah
+  - Yury Gerasimenko
+  - Hui Zhong
+  - Roland R. Roy
+  - V. Reggie Edgerton
+  publisher: Journal of Neuroscience Methods
+  date: '2015-05-01'
+  link: https://doi.org/f7bdgn
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0103764
+  title: A Brain-Machine-Muscle Interface for Restoring Hindlimb Locomotion after
+    Complete Spinal Transection in Rats
+  authors:
+  - Monzurul Alam
+  - Xi Chen
+  - Zicong Zhang
+  - Yan Li
+  - Jufang He
+  publisher: PLoS ONE
+  date: '2014-08-01'
+  link: https://doi.org/f6ns2c
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1743-0003-11-107
+  title: 'Electronic bypass of spinal lesions: activation of lower motor neurons directly
+    driven by cortical neural signals'
+  authors:
+  - Yan Li
+  - Monzurul Alam
+  - Shanshan Guo
+  - KH Ting
+  - Jufang He
+  publisher: Journal of NeuroEngineering and Rehabilitation
+  date: '2014-07-03'
+  link: https://doi.org/f6hbf8
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4018/978-1-4666-6094-6.ch009
+  title: Lower-Limb Neuroprostheses
+  authors:
+  - Monzurul Alam
+  - Jufang He
+  publisher: Advances in Bioinformatics and Biomedical Engineering
+  date: ''
+  link: https://doi.org/hb9v5s
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-2560/10/6/066010
+  title: A low-cost multichannel wireless neural stimulation system for freely roaming
+    animals
+  authors:
+  - Monzurul Alam
+  - Xi Chen
+  - Eduardo Fernandez
+  publisher: Journal of Neural Engineering
+  date: '2013-10-25'
+  link: https://doi.org/gh64p3
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-34546-3_6
+  title: Cortically Controlled Electrical Stimulation for Locomotion of the Spinal
+    Cord Injured
+  authors:
+  - Monzurul Alam
+  - Jufang He
+  publisher: Biosystems &amp; Biorobotics
+  date: '2013-01-01'
+  link: https://doi.org/hb9v5t
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202309.1953.v1
+  title: Restoration of Over-Ground Walking via Non-invasive Neuromodulation Therapy
+  authors:
+  - Monzurul Alam
+  - Yan To Ling
+  - Md Akhlasur Rahman
+  - Arnold Yu Lok Wong
+  - Hui Zhong
+  - V. Reggie Edgerton
+  - Yong-Ping Zheng
+  publisher: MDPI AG
+  date: '2023-09-28'
+  link: https://doi.org/hb9v5v
+  orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +672,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +688,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
