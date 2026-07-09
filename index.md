@@ -49,7 +49,7 @@ Our projects include electrical stimulation systems, robotic exoskeletons, stand
 
 {%
   include feature.html
-  image="images/projects.jpg"
+  image="images/projects.png"
   link="projects"
   title="Our Projects"
   flip=true
