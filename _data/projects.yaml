@@ -3,7 +3,7 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: OpenXstim is a low-cost, customisable neuromodulation platform designed to support research, education and clinical translation. The system enables flexible development and evaluation of stimulation technologies for rehabilitation and functional restoration.
+  description: A low-cost, customisable neuromodulation platform designed to support research, education and clinical translation. The system enables flexible development and evaluation of stimulation technologies for rehabilitation and functional restoration.
   repo: OpenMedTech-Lab/OpenXstim
   tags:
     - resource
