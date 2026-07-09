@@ -74,7 +74,7 @@ We have created affordable technologies that improve mobility, independence, and
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/impact.jpg"
   link="team"
   title="Our Impact"
   text=text
