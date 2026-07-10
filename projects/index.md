@@ -9,7 +9,7 @@ nav:
 
 From concept to clinical translation, we develop affordable, accessible and open-source technologies that empower people with disabilities worldwide. Our projects address real-world healthcare challenges and enhance participation, independence and quality-of-life for people living with disability.
 
-{% include tags.html tags="publication, resource, website" %}
+# {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
