@@ -25,7 +25,7 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://share.google/SWjXtaL0vFtfuRQ0G"
+  link="https://maps.app.goo.gl/Y1r4rpFUTt2k2VjC9"
 %}
 
 {% include section.html %}
