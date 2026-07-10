@@ -24,7 +24,7 @@ Together, we advance rehabilitation engineering, neurotechnology, robotics, and 
 
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/CRP.jpg" %}
 
 {% endcapture %}
 
