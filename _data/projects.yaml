@@ -16,7 +16,7 @@
   link: https://github.com/OpenMedTech-Lab/OpenXwheel
   description: OpenXWheel is an affordable standing wheelchair designed to improve mobility, independence and participation for individuals with mobility impairments. The project focuses on accessibility, affordability and user-centred design.
   repo: OpenMedTech-Lab/OpenXwheel
-  #tags:
+  tags:
     - publication
     - resource
 
@@ -26,7 +26,7 @@
   link: https://github.com/OpenMedTech-Lab/OpenXamp
   description: A modular biosignal acquisition platform designed to support research, education and medical technology development in healthcare and rehabilitation.
   repo: OpenMedTech-Lab/OpenXamp
-  #tags:
+  tags:
     - resource
 
 - title: OpenXhand
@@ -35,7 +35,7 @@
   link: https://github.com/OpenMedTech-Lab/OpenXhand
   description: OpenXHand is a wearable robotic exoskeleton system designed to assist hand movement and support rehabilitation following neurological injury or disease.
   repo: OpenMedTech-Lab/OpenXhand
-  #tags:
+  tags:
     - publication
     - resource
 
@@ -45,5 +45,5 @@
   link: https://github.com/OpenMedTech-Lab/OpenXstand
   description: OpenXwalk is a modular robotic gait assistance platform that supports walking rehabilitation and mobility training for people with neurological conditions.
   repo: OpenMedTech-Lab/OpenXstand
-  #tags:
+  tags:
     - resource
