@@ -1,8 +1,8 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Farjana Taoheed
+image: images/farjana.jpg
+role: research
+group: current
 links:
   github: john-doe
 ---
