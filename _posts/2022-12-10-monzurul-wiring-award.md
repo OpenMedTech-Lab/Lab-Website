@@ -1,10 +1,9 @@
 ---
 title: Congratulations to Monzurul on Receiving the SRI Research Writing Award
-author: monzurul-alam
+image: images/photo.jpg
+author: Dr. Monzurul Alam
 tags:
   - award
-  - medicine
-  - big data
 ---
 
 We are delighted to congratulate Monzurul Alam on receiving the Spinal Cord Injury (SCI) Research Writing Prize from the Spinal Research Institute (SRI). His award-winning article, “Reversing Paralysis After Spinal Cord Injury,” was selected for publication in Why Research Matters, a collection highlighting outstanding spinal cord injury research from around the world.
