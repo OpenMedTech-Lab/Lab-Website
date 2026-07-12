@@ -16,8 +16,23 @@
     - neural engineering
   repo: OpenMedTech-Lab/OpenXstim
 
+
 #- id: doi:10.1016/j.csbj.2020.05.017
 #  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+
+
+- id: doi:10.1371/journal.pone.0103764
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0103764.g002
+
+- id: 10.1186/1743-0003-11-107
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2F1743-0003-11-107/MediaObjects/12984_2013_629_Fig2_HTML.jpg?as=webp
+
+- id: doi:10.1088/1741-2560/10/6/066010
+  image: https://cms.iopscience.org/1a4440b3-ec1f-11e5-b0b6-759f86a2008e/journal_cover?guest=true
+
+- id: doi:10.1007/978-3-642-34546-3_6
+  image: https://media.springernature.com/w120/springer-static/cover/book/978-3-642-34546-3.jpg?as=webp
 
 - id: doi:10.4018/978-1-4666-6094-6.ch009
   date: 2014-03-08
