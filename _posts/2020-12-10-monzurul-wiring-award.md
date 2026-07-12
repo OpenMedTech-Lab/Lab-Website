@@ -5,7 +5,7 @@ tags:
   - award
 ---
 
-We are delighted to congratulate Monzurul Alam on receiving the Spinal Cord Injury (SCI) Research Writing Prize from the Spinal Research Institute (SRI). His award-winning article, “Reversing Paralysis After Spinal Cord Injury,” was selected for publication in Why Research Matters, a collection highlighting outstanding spinal cord injury research from around the world.
+We are delighted to congratulate Dr. Monzurul Alam on receiving the Spinal Cord Injury (SCI) Research Writing Prize from the Spinal Research Institute (SRI). His award-winning article, “Reversing Paralysis After Spinal Cord Injury,” was selected for publication in Why Research Matters, a collection highlighting outstanding spinal cord injury research from around the world.
 
 In his article, Monzurul shares groundbreaking research on non-invasive transcutaneous electrical stimulation (tES) and its potential to restore movement and function after spinal cord injury. By communicating complex science in an engaging and accessible way, he helped bring hope and understanding to people living with SCI and the broader community.
 
