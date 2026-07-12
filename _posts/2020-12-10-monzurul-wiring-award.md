@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Monzurul on Receiving the SRI Research Writing Award
-image: images/monzurul.jpg
+image: images/sri-wirting-2020.png
 tags:
   - award
 ---
