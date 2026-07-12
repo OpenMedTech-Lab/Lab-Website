@@ -8,4 +8,4 @@ Farjana’s work focuses on developing low-cost rehabilitative and assistive dev
 
 This achievement reflects Farjana’s dedication to impactful, patient-centered research and her commitment to advancing rehabilitation and spinal cord injury care worldwide. Congratulations, Farjana, on this well-deserved recognition! 🎉
 
-For more information, please visit: https://www.thesri.org/profiles/farjana-taoheed/
+For more information, please visit [SRI](https://www.thesri.org/profiles/farjana-taoheed/)
