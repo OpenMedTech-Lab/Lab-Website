@@ -1,6 +1,6 @@
 ---
 name: Md Akhlasur Rahman
-image: images/aklasur.jpg
+image: images/akhlasur.jpg
 role: research
 links:
   email: akhlas.physio@gmail.com
