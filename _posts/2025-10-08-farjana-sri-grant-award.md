@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Farjana Taoheed on Receiving an SRI SCI Research Collaboration Grant
-image: images/farjana.jpg
+image: images/iscos-2025.jpg
 tags: grant, award, conference
 ---
 
