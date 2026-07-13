@@ -208,8 +208,9 @@
   date: '2021-05-05'
   link: https://doi.org/hb9v43
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/pb-assets/assets/15509613/JUM_logo_RGB_LoRes%20%28002%29-1546455561150.png
 - id: doi:10.3390/jcm11041043
   title: Effect of Cervical Transcutaneous Spinal Cord Stimulation on Sensorimotor
     Cortical Activity during Upper-Limb Movements in Healthy Individuals
@@ -275,8 +276,9 @@
   date: '2021-10-18'
   link: https://doi.org/gp2hdb
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/img/journals/sensors-logo.png?e6c5d1b63c26048a
 - id: doi:10.3390/s21196593
   title: EEG Monitoring Is Feasible and Reliable during Simultaneous Transcutaneous
     Electrical Spinal Cord Stimulation
@@ -289,22 +291,9 @@
   date: '2021-10-02'
   link: https://doi.org/hb9v45
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-870815/v1
-  title: Compact Design of A Lightweight Rehabilitative Exoskeleton for Restoring
-    Grasping Function in Patients with Hand Paralysis
-  authors:
-  - Vaheh Nazari
-  - Majid Pouladian
-  - Yong-Ping Zheng
-  - Monzurul Alam
-  publisher: Springer Science and Business Media LLC
-  date: '2021-09-23'
-  link: https://doi.org/hb9v48
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/img/journals/sensors-logo.png?e6c5d1b63c26048a
 - id: doi:10.3390/prosthesis3010003
   title: Can Prosthetic Hands Mimic a Healthy Human Hand?
   authors:
@@ -315,8 +304,9 @@
   date: '2021-01-28'
   link: https://doi.org/hb9v46
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/img/journals/prosthesis-logo.png?ae61be0a22fa6256
 - id: doi:10.1177/1559325821998136
   title: Buspirone Dose-Response on Facilitating Forelimb Functional Recovery in Cervical
     Spinal Cord Injured Rats
@@ -330,8 +320,9 @@
   date: '2021-01-01'
   link: https://doi.org/hb9v47
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.sagepub.com/cms/asset/97383ee5-8f2f-4867-8dc7-5bda290ffca2/default_cover.jpg
 - id: doi:10.1002/ejp.1838
   title: Disruption to normal excitatory and inhibitory function within the medial
     prefrontal cortex in people with chronic pain
@@ -347,22 +338,9 @@
   date: '2021-07-26'
   link: https://doi.org/hb9v49
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-225668/v1
-  title: Knowledge, Attitude and Practice Among Caregivers Towards Pressure Ulcer
-    in Spinal Cord Injury at Rehabilitation Center in Bangladesh
-  authors:
-  - Niraj Tharu
-  - Monzurul Alam
-  - Shristi Bajracharya
-  - Mohammad Kabir
-  publisher: Springer Science and Business Media LLC
-  date: '2021-03-03'
-  link: https://doi.org/hb9v5b
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/07d757c2-aa44-46ee-976f-00389e107f79/ejp.v25.10.cover.jpg
 - id: doi:10.1007/s13311-020-00974-8
   title: Serotonergic Facilitation of Forelimb Functional Recovery in Rats with Cervical
     Spinal Cord Injury
@@ -379,8 +357,9 @@
   date: '2021-04-01'
   link: https://doi.org/g6v9bc
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.neurotherapeuticsjournal.org/cms/asset/63dddba3-8dbf-4a35-a0af-430102757c23/cov200h.gif
 - id: doi:10.1080/02699052.2020.1850864
   title: 'Restoration of arm and hand functions via noninvasive cervical cord neuromodulation
     after traumatic brain injury: a case study'
@@ -394,8 +373,9 @@
   date: '2020-12-02'
   link: https://doi.org/hb9v5c
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/ibij20.v034.i13-14
 - id: doi:10.1186/s42234-020-00048-2
   title: Ultrasound-driven piezoelectric current activates spinal cord neurocircuits
     and restores locomotion in rats with spinal cord injury
@@ -424,8 +404,9 @@
   date: '2019-12-31'
   link: https://doi.org/hb9v5d
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.sagepub.com/cms/asset/10d95c35-816f-4d4b-9a08-c0cb913593bc/nroa_32_3.largecover.png
 - id: doi:10.1002/acn3.51051
   title: "Reversing 21\_years of chronic paralysis via non\u2010invasive spinal cord\
     \ neuromodulation: a case study"
@@ -440,46 +421,9 @@
   date: '2020-05-01'
   link: https://doi.org/hb9v5f
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/759449
-  title: Neuromodulation of pelvic nerve during early phase of spinal cord injury
-    in rats using implantable prototype devices - a preliminary study
-  authors:
-  - Wendy Yen Xian Peh
-  - Monzurul Alam
-  - Rakib Uddin Ahmed
-  - Sanghoon Lee
-  - Li Jing Ong
-  - Shuhao Lu
-  - Roshini Mogan
-  - Gil Gerald Lasam Gammad
-  - Kian Ann Ng
-  - Astrid Rusly
-  - Sudip Nag
-  - Yong-Ping Zheng
-  - Shih-Cheng Yen
-  publisher: openRxiv
-  date: '2019-09-08'
-  link: https://doi.org/gk2hr8
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/NER.2019.8717001
-  title: Closed-Loop Bladder Neuromodulation Therapy in Spinal Cord Injury Rat Model
-  authors:
-  - Marlena N. Raczkowska
-  - Wendy Y. X. Peh
-  - Yuni Teh
-  - Monzurul Alam
-  - Shih-Cheng Yen
-  - Nitish V. Thakor
-  publisher: 2019 9th International IEEE/EMBS Conference on Neural Engineering (NER)
-  date: '2019-03-01'
-  link: https://doi.org/hb9v5g
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/de75b2e8-bb03-4798-94c2-48b04772d551/acn3.v7.5.cover.gif
 - id: doi:10.1186/s12984-019-0501-4
   title: Development of a battery-free ultrasonically powered functional electrical
     stimulator for movement restoration after paralyzing spinal cord injury
@@ -497,8 +441,9 @@
   date: '2019-03-08'
   link: https://doi.org/gntbph
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/12984?as=webp
 - id: doi:10.1016/j.heliyon.2019.e01324
   title: Experimental spinal cord injury and behavioral tests in laboratory rats
   authors:
@@ -509,8 +454,9 @@
   date: '2019-03-01'
   link: https://doi.org/hb9v5h
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/asset/f6b04fa4-93b9-4883-a101-2e56d6981bb6/small_placeholder_cover.jpg
 - id: doi:10.1088/1361-6579/aac812
   title: Measurement of neurovascular coupling in human motor cortex using simultaneous
     transcranial Doppler and electroencephalography
@@ -523,49 +469,9 @@
   date: '2018-06-01'
   link: https://doi.org/hb9v5p
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/BIOCAS.2017.8325079
-  title: A chronic implantable EMG recording system with wireless power and data transfer
-  authors:
-  - Marshal Dian Sheng Wong
-  - Kian Ann Ng
-  - Sudip Nag
-  - Rangarajan Jegadeesan
-  - Khay-Wai Leong
-  - Li Jing Ong
-  - Astrid Rusly
-  - Monzurul Alam
-  - Gil Gerald Lasam Gammad
-  - Chne Wuen Tsai
-  - Shih-Chiang Liu
-  - Kai Voges
-  - Nitish V. Thakor
-  - Amitabha Lahiri
-  - Camilo Libedinsky
-  - Yong Ping Xu
-  - Shih-Cheng Yen
-  publisher: 2017 IEEE Biomedical Circuits and Systems Conference (BioCAS)
-  date: '2017-10-01'
-  link: https://doi.org/hb9v5j
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/BIOCAS.2017.8325202
-  title: Adaptive closed-loop bladder neuromodulation
-  authors:
-  - Wendy Y.X. Peh
-  - Marlena N. Raczkowska
-  - Yuni Teh
-  - Monzurul Alam
-  - Nitish V. Thakor
-  - Shih-Cheng Yen
-  publisher: 2017 IEEE Biomedical Circuits and Systems Conference (BioCAS)
-  date: '2017-10-01'
-  link: https://doi.org/hb9v5k
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cms.iopscience.org/0bbaf079-ec1f-11e5-b0b6-759f86a2008e/journal_cover?guest=true
 - id: doi:10.1088/1741-2552/aadee9
   title: Closed-loop stimulation of the pelvic nerve for optimal micturition
   authors:
@@ -579,8 +485,9 @@
   date: '2018-09-25'
   link: https://doi.org/hb9v5m
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://cms.iopscience.org/1a4440b3-ec1f-11e5-b0b6-759f86a2008e/journal_cover?guest=true
 - id: doi:10.1038/s41394-018-0141-0
   title: 'Diagnosis and treatment of diastematomyelia in children: a perspective cohort
     study'
@@ -596,8 +503,9 @@
   date: '2018-12-19'
   link: https://doi.org/hb9v5n
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/nature-cms/uploads/product/scsandc/header-c63509f3c1c68981c1ebdf74468b2a80.svg
 - id: doi:10.1016/j.expneurol.2017.02.006
   title: Electrical neuromodulation of the cervical spinal cord facilitates forelimb
     skilled function recovery in spinal cord injured rats
@@ -615,8 +523,9 @@
   date: '2017-05-01'
   link: https://doi.org/f9zpg9
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0014488617X00034-cov200h.gif
 - id: doi:10.4103/1673-5374.219041
   title: 'Motor neuroprosthesis for injured spinal cord: who is an ideal candidate?'
   authors:
@@ -626,8 +535,9 @@
   date: '2017-01-01'
   link: https://doi.org/hb9v5q
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ovid.com//image-api/imgsrv/article/i/thumb/wkmrid/JOURNAL%252Fnrgr%252F04.03%252F01300535-202610000-00000%252Fcover%252Fv%252F2026-07-10T100526Z%252Fr%252Fimage-png/width/300.webp
 - id: doi:10.1016/j.brainres.2016.05.039
   title: 'Brain-machine interface facilitated neurorehabilitation via spinal stimulation
     after spinal cord injury: Recent progress and future perspectives'
@@ -640,8 +550,9 @@
   date: '2016-09-01'
   link: https://doi.org/f8x449
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006899316X00169-cov200h.gif
 - id: doi:10.1089/neu.2015.4256
   title: Unique Spatiotemporal Neuromodulation of the Lumbosacral Circuitry Shapes
     Locomotor Success after Spinal Cord Injury
@@ -657,8 +568,9 @@
   date: '2016-09-01'
   link: https://doi.org/f85bkd
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.sagepub.com/cms/asset/fd1f9b3e-01be-4de7-af35-83471dab416c/nrta_43_13-14.largecover.png
 - id: doi:10.1016/j.jneumeth.2015.08.032
   title: An economic method to build a puffing instrument for drug application in
     vitro
@@ -673,8 +585,9 @@
   date: '2015-12-01'
   link: https://doi.org/f73gtk
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/X01650270.jpg
 - id: doi:10.1016/j.jneumeth.2015.05.017
   title: "Erratum to \u201CEvaluation of optimal electrode configurations for epidural\
     \ spinal cord stimulation in cervical spinal cord injured rats\u201D [J. Neurosci.\
@@ -708,8 +621,9 @@
   date: '2015-05-01'
   link: https://doi.org/f7bdgn
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/X01650270.jpg
 - id: doi:10.1371/journal.pone.0103764
   title: A Brain-Machine-Muscle Interface for Restoring Hindlimb Locomotion after
     Complete Spinal Transection in Rats
@@ -725,7 +639,7 @@
   orcid: 0000-0003-0987-1999
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0103764.g002
+  image: https://journals.plos.org/plosone/
 - id: doi:10.1186/1743-0003-11-107
   title: 'Electronic bypass of spinal lesions: activation of lower motor neurons directly
     driven by cortical neural signals'
