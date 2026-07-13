@@ -22,6 +22,10 @@ Our research focuses on neural engineering, neurorehabilitation, neuromodulation
 
 {% include section.html %}
 
+{% include citation.html lookup="doi:10.3390/jcm12237362" style="rich" %}
+
+{% include section.html %}
+
 ## All
 
 {% include search-box.html %}
