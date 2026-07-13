@@ -42,8 +42,8 @@
 - title: OpenXwalk
   subtitle: Wearable Robotic Walking Assistance System
   image: images/OpenXwalk.jpg
-  link: https://github.com/OpenMedTech-Lab/OpenXstand
+  #link: https://github.com/OpenMedTech-Lab/OpenXstand
   description: OpenXwalk is a modular robotic gait assistance platform that supports walking rehabilitation and mobility training for people with neurological conditions.
-  repo: OpenMedTech-Lab/OpenXstand
-  tags:
-    - resource
+  #repo: OpenMedTech-Lab/OpenXstand
+  #tags:
+  #  - resource
