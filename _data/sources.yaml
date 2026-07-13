@@ -86,7 +86,7 @@
   remove: true
 
 - id: doi:10.1186/s12984-019-0501-4
-  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/12984?as=webp
+  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/42234?as=webp
 
 - id: doi:10.1016/j.heliyon.2019.e01324
   image: https://www.cell.com/cms/asset/f6b04fa4-93b9-4883-a101-2e56d6981bb6/small_placeholder_cover.jpg
@@ -124,11 +124,14 @@
 - id: doi:10.1016/j.jneumeth.2015.08.032
   image: https://ars.els-cdn.com/content/image/X01650270.jpg
 
+- id: doi:10.1016/j.jneumeth.2015.05.017
+  remove: true
+
 - id: doi:10.1016/j.jneumeth.2015.03.012
   image: https://ars.els-cdn.com/content/image/X01650270.jpg
 
 - id: doi:10.1371/journal.pone.0103764
-  image: https://journals.plos.org/plosone/
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0103764.g003
 
 - id: 10.1186/1743-0003-11-107
   image: https://media.springernature.com/w120/springer-static/cover-hires/journal/12984?as=webp
