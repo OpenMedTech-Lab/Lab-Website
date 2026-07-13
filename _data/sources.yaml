@@ -1,23 +1,49 @@
-- id: doi:10.1088/1741-2552/ae20c2
-  type: paper
-  description: This programmable, open-source neurostimulator offers tangible hope for expanding access to non-invasive neuromodulation research and treatments for people with paralysis worldwide.
-  date: 2025-11-27
-  image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
-  #buttons:
-    #- type: manubot
-    #  link: https://greenelab.github.io/meta-review/
-    #- type: source
-    #  text: Manuscript Source
-    #  link: https://github.com/greenelab/meta-review
-    #- type: website
-    #  link: http://manubot.org
-  tags:
-    - open-source
-    - neural engineering
-  repo: OpenMedTech-Lab/OpenXstim
+- id: doi:10.1080/17483107.2025.2591868
+  description: This affordable, open-source standing wheelchair offers tangible hope for reducing global disparities in access to assistive technologies by enabling independent standing and improving participation, health, and well-being for people with paralysis.
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/iidt20.v021.i04
 
-#- id: doi:10.3390/s21206900
-#  image: https://pub.mdpi-res.com/img/journals/sensors-logo.png?e6c5d1b63c26048a
+- id: doi:10.1088/1741-2552/ae20c2
+  description: This programmable, open-source neurostimulator offers tangible hope for expanding access to non-invasive neuromodulation research and treatments for people with paralysis worldwide.
+  image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
+
+- id: doi:10.1101/2025.10.08.25337543
+  remove: true
+
+- id: doi:10.1201/9781003419235-8
+  image: https://images.tandf.co.uk/common/jackets/crclarge/978100341/9781003419235.jpg
+
+- id: doi:10.1101/2025.03.05.25323410
+  remove: true
+  
+- id: doi:10.3389/fbioe.2024.1372158
+  image: https://www.frontiersin.org/api/ipx/w=716&f=webp/https://www.frontiersin.org/files/Articles/1372158/xml-images/fbioe-12-1372158-g001.webp
+
+- id: doi:10.3390/jcm12237362
+  image: https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12
+
+- id: doi:10.20944/preprints202309.1953.v1
+  remove: true
+
+- id: doi:10.3390/biomedicines11010034
+  image: https://pub.mdpi-res.com/img/journals/biomedicines-logo.png?71c15d34b20b6e88
+
+- id: doi:10.1101/2022.10.03.510697
+  remove: true
+
+- id: doi:10.21203/rs.3.rs-2116817/v1
+  remove: true
+
+- id: doi:10.1155/2022/8642900
+  image: https://onlinelibrary.wiley.com/cms/asset/5ca086bb-0ac0-40d6-bbab-865a02101875/default_cover.jpg
+
+- id: doi:10.3390/jcm11061550
+  image: https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12
+
+- id: doi:10.3390/jcm11041043
+  image: https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12
+
+- id: doi:10.1016/B978-0-12-822498-4.00019-1
+  image: https://ars.els-cdn.com/content/image/3-s2.0-C20190044937-cov200h.gif
 
 - id: doi:10.3390/s21206900
   image: https://pub.mdpi-res.com/img/journals/sensors-logo.png?e6c5d1b63c26048a
