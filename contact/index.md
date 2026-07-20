@@ -61,7 +61,7 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 {% endcapture %}
 
 {% capture col2 %}
-Ability Not Disability - Empowering Lives Through Affordable and Assessible Innovation
+Ability Not Disability - Empowering Lives Through Affordable & Accessible Innovation
 {% endcapture %}
 
 {% capture col3 %}
