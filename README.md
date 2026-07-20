@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # OpenMedTech-Lab's Website
+  # Open-Source Medical Technology Lab!
 
   Visit **[openmedtech.org](https://openmedtech.org)** 🚀
 
